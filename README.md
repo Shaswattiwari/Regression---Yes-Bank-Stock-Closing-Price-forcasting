@@ -1,4 +1,5 @@
 ## Stock Price Forecasting with LSTM
+
 This Python script implements a stock price forecasting model using Long Short-Term Memory (LSTM) neural networks. The model takes historical stock price data as input and predicts future price movements. Below is an overview of the functionality and usage of the code.
 
 ## Overview
